@@ -1,0 +1,17 @@
+---
+name: Feature Request
+about: Suggest an improvement or ask a question about OntologyBot
+title: "[FEATURE] Your feature title here"
+labels: enhancement
+assignees: 'Bear'
+
+---
+
+### Description
+A clear and concise description of what the feature is and why it would be useful.
+
+### Proposed Solution
+How do you suggest implementing this feature?
+
+### Additional Context
+Any other details or relevant links/screenshots.
