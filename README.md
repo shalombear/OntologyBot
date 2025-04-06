@@ -1,7 +1,6 @@
 # OntologyBot
-Public repository for raising issues related to OntologyBot. The bot's source code is private.
 
-This repository exists solely to provide a place for raising issues related to OntologyBot.
+This repository exists to provide a place for raising issues related to OntologyBot.
 
 The bot's source code is private.
 
